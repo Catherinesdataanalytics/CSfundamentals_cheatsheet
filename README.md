@@ -6,3 +6,6 @@
 
 # bigO cheatsheet
 [big O summary](http://bigocheatsheet.com/)
+
+# http
+[http](https://www.youtube.com/watch?v=Tl4bJ1S66GA)
