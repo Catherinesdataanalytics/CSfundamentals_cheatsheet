@@ -9,3 +9,6 @@
 
 # http
 [http](https://www.youtube.com/watch?v=Tl4bJ1S66GA)
+
+# Linux cmd
+(Unix cmd)[http://www.westwind.com/reference/OS-X/commandline/pipes.html]
