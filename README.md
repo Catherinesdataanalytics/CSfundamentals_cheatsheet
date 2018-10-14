@@ -15,3 +15,4 @@
 
 # network 
 [network basic](https://www.youtube.com/watch?v=3QhU9jd03a0)
+[routers and switch](https://www.youtube.com/watch?v=1z0ULvg_pW8)
