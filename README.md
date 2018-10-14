@@ -14,5 +14,7 @@
 [Unix cmd](http://www.westwind.com/reference/OS-X/commandline/pipes.html)
 
 # network 
-[network basic](https://www.youtube.com/watch?v=3QhU9jd03a0)
-[routers and switch](https://www.youtube.com/watch?v=1z0ULvg_pW8)
+* [network basic](https://www.youtube.com/watch?v=3QhU9jd03a0)
+* [routers and switch](https://www.youtube.com/watch?v=1z0ULvg_pW8)
+* [port](https://www.youtube.com/watch?v=2G1ueMDgwxw)
+* [network](https://www.youtube.com/watch?v=n2D1o-aM-2s)
