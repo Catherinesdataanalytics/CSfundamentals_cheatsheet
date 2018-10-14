@@ -12,3 +12,6 @@
 
 # Linux cmd
 [Unix cmd](http://www.westwind.com/reference/OS-X/commandline/pipes.html)
+
+# network 
+[network basic](https://www.youtube.com/watch?v=3QhU9jd03a0)
